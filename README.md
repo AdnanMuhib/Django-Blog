@@ -7,6 +7,7 @@ by following the [tutorial](https://www.youtube.com/watch?v=D6esTdOLXh4) on yout
   <li>You can create, update and delete the posts.</li>
   <li>Backend with MySQL</li>
   <li>MTV (Model-Template-View) architecture</li>
+  <li>Default admin-board by Django</li>
 </ul>
 
 ## Note
